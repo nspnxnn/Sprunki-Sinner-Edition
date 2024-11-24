@@ -1,5 +1,6 @@
 
 # 🎵 Sprunki Sinner Edition
+![logo-landscape](https://github.com/user-attachments/assets/51232bb5-2d2f-4e7c-8607-d1f44782d7b4)
 
 ## 🛠 About The Game
 
