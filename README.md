@@ -1,12 +1,11 @@
-
 # 🎵 Sprunki Sinner Edition
 ![logo-landscape](https://github.com/user-attachments/assets/51232bb5-2d2f-4e7c-8607-d1f44782d7b4)
 
 ## 🛠 About The Game
 
-Sprunki Sinner Edition is a unique Halloween-themed spin-off of the original Sprunki game. While maintaining the core music creation mechanics that made the original successful, this edition introduces a darker, more mysterious atmosphere with neon-gothic aesthetics.
+Sprunki Sinner Edition is a unique Halloween-themed spin-off of the original Sprunki game. While maintaining the core music creation mechanics that made the original successful, this edition introduces a darker, more mysterious atmosphere with neon-gothic aesthetics. Sprunki Sinner Edition represents a bold new direction in musical gaming experiences.
 
-## Play it now
+## Play Sprunki Sinner Edition Now
 [Sprunki Sinner Edition](https://sprunki-incredibox.org/game/sprunki-sinner-edition)  
 [Sprunki Original](https://sprunki-incredibox.org)  
 
@@ -18,7 +17,7 @@ Sprunki Sinner Edition is a unique Halloween-themed spin-off of the original Spr
 - Created by Harryaltered with custom-made characters and original soundtrack
 
 ### 🎵 Gameplay Overview
-Players can craft their musical compositions by combining various characters, each contributing unique soundscapes, beats, and vocals. The special "Sinner Mode" can be activated by specific character combinations (TUNNER + SIMON), unlocking a darker realm of musical possibilities.
+Sprunki Sinner Edition allows players to craft their musical compositions by combining various characters, each contributing unique soundscapes, beats, and vocals. The special "Sinner Mode" can be activated by specific character combinations (TUNNER + SIMON), unlocking a darker realm of musical possibilities unique to Sprunki Sinner Edition.
 
 ## 🎵 Sprunki Sinner Edition Landing Page
 
@@ -78,11 +77,11 @@ pnpm build
 
 ## 🎮 Game Features
 
-- 🎼 Dynamic beat creation and sound mixing system
+- 🎼 Dynamic beat creation and sound mixing system exclusive to Sprunki Sinner Edition
 - 👻 Interactive character-based music generation
 - 🎃 Halloween-inspired neon-gothic visual design
 - 🖱️ Intuitive drag-and-drop gameplay mechanics
-- 😈 Special "Sinner Mode" with unique sound effects
+- 😈 Special "Sinner Mode" with unique Sprunki Sinner Edition sound effects
 - 💾 Save and load your musical creations
 
 ## 💻 Development
