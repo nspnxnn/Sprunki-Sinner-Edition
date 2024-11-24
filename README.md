@@ -6,8 +6,8 @@
 Sprunki Sinner Edition is a unique Halloween-themed spin-off of the original Sprunki game. While maintaining the core music creation mechanics that made the original successful, this edition introduces a darker, more mysterious atmosphere with neon-gothic aesthetics.
 
 ## Play it now
-[Sprunki Sinner Edition](https://sprunki-incredibox.org/game/sprunki-sinner-edition)
-[Sprunki Original](https://sprunki-incredibox.org)
+[Sprunki Sinner Edition](https://sprunki-incredibox.org/game/sprunki-sinner-edition)  
+[Sprunki Original](https://sprunki-incredibox.org)  
 
 ### 🌟 What Makes It Special
 - Builds upon the original Sprunki's drag-and-drop music creation system
