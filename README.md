@@ -10,7 +10,8 @@ Sprunki Sinner Edition is a unique Halloween-themed spin-off of the original Spr
 [Sprunki Original](https://sprunki-incredibox.org)  
 
 ## News about the game
-[Sprunki Sinner Edition: Where Gothic Rhythm Meets Musical Innovation](https://medium.com/@panyanyany/sprunki-sinner-edition-where-gothic-rhythm-meets-musical-innovation-02d8e747bdd2)
+- [Sprunki Sinner Edition: Where Gothic Rhythm Meets Musical Innovation](https://medium.com/@panyanyany/sprunki-sinner-edition-where-gothic-rhythm-meets-musical-innovation-02d8e747bdd2)
+- [Sprunki Sinner Edition](https://thequiltshow.com/forum/block-of-the-month-bom/star-crazy-pieced-2010/900867-sprunki-sinner-edition)
 
 ### 🌟 What Makes It Special
 - Builds upon the original Sprunki's drag-and-drop music creation system
